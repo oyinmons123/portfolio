@@ -25,6 +25,14 @@ const projects = [
         image: Website,
         github: "https://oyinmons123.github.io/web",
     },
+    {
+      id:4,
+      name: "Portfolio",
+      technologies: "React, Tailwind CSS",
+      image: Website,
+      github: "https://todo-app-delta-topaz-64.vercel.app/",
+    }
+    
 ]
 
 const Projects = () => {
