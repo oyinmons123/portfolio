@@ -27,12 +27,12 @@ const projects = [
     },
     {
       id:4,
-      name: "Portfolio",
+      name: "Todo-App",
       technologies: "React, Tailwind CSS",
       image: Website,
       github: "https://todo-app-delta-topaz-64.vercel.app/",
     }
-    
+
 ]
 
 const Projects = () => {
